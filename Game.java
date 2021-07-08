@@ -1,4 +1,4 @@
-//
+// RyiSnow Java Text Adventure Game
 
 import java.awt.Color;
 import java.awt.Container;
